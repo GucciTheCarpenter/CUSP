@@ -1,0 +1,376 @@
+U.S. Regional Level,ID Code,ID MOD,U.S. Regional Title,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,Total
+Metropolitan Statistical Area,141940,41940,"San Jose-Sunnyvale-Santa Clara, CA",5812,6377,6433,6838,6885,6502,8129,7191,7213,7840,10074,10256,89547
+Metropolitan Statistical Area,135620,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA",5689,5638,5479,5233,4717,3959,4951,4285,4399,4605,6383,6252,61587
+Metropolitan Statistical Area,141860,41860,"San Francisco-Oakland-Fremont, CA",3625,3800,4030,4084,4026,3726,4810,4337,4298,4711,6290,6468,54205
+Metropolitan Statistical Area,131100,31100,"Los Angeles-Long Beach-Santa Ana, CA",3877,3995,3889,4057,3959,3674,4445,3696,3594,3864,4992,5154,49193
+Metropolitan Statistical Area,114460,14460,"Boston-Cambridge-Quincy, MA-NH",2972,3133,3103,3465,3195,2768,3461,3027,3039,3165,4330,4537,40195
+Metropolitan Statistical Area,116980,16980,"Chicago-Joliet-Naperville, IL-IN-WI",3101,2981,2772,2616,2562,2246,2689,2314,2192,2312,2933,3033,31751
+Metropolitan Statistical Area,133460,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",2244,2220,2330,2540,2285,1989,2399,2099,2015,2031,2827,3113,28088
+Metropolitan Statistical Area,142660,42660,"Seattle-Tacoma-Bellevue, WA",1141,1227,1306,1419,1467,1518,2290,2346,2622,3378,4052,3597,26359
+Metropolitan Statistical Area,141740,41740,"San Diego-Carlsbad-San Marcos, CA",1724,1906,1958,2028,1994,1767,2220,2043,1900,1964,2993,3293,25790
+Metropolitan Statistical Area,119820,19820,"Detroit-Warren-Livonia, MI",2120,2239,2230,2255,2214,2018,2298,1931,1756,1757,2222,2253,25293
+Metropolitan Statistical Area,119100,19100,"Dallas-Fort Worth-Arlington, TX",2116,2130,1926,1884,1959,1685,2016,1766,1669,1676,2189,2215,23230
+Metropolitan Statistical Area,112420,12420,"Austin-Round Rock-San Marcos, TX",1680,1732,1653,1792,1733,1623,1912,1794,1951,2137,2449,2460,22916
+Metropolitan Statistical Area,137980,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2185,2225,2091,1934,1706,1478,1806,1667,1510,1711,2102,2069,22481
+Metropolitan Statistical Area,126420,26420,"Houston-Sugar Land-Baytown, TX",1767,1778,1734,1678,1628,1460,1781,1611,1616,1619,2190,2173,21035
+Metropolitan Statistical Area,138900,38900,"Portland-Vancouver-Hillsboro, OR-WA",988,1082,1249,1522,1504,1381,1764,1588,1558,1504,1748,1753,17641
+Metropolitan Statistical Area,147900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1218,1286,1307,1252,1226,1105,1371,1203,1242,1302,1758,1790,16061
+Metropolitan Statistical Area,114260,14260,"Boise City-Nampa, ID",1450,1576,1711,1662,1667,1421,1509,1229,1063,837,948,896,15969
+Metropolitan Statistical Area,138060,38060,"Phoenix-Mesa-Glendale, AZ",1259,1126,1206,1207,1211,1077,1253,1171,1134,1091,1339,1364,14438
+Metropolitan Statistical Area,140380,40380,"Rochester, NY",1382,1384,1390,1411,1305,1021,1128,1031,879,916,1273,1287,14407
+Metropolitan Statistical Area,112060,12060,"Atlanta-Sandy Springs-Marietta, GA",1023,1097,1034,1083,1082,997,1267,1102,1136,1224,1656,1680,14381
+Metropolitan Statistical Area,133100,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",989,942,803,825,835,721,898,797,697,728,991,1099,10325
+Metropolitan Statistical Area,139580,39580,"Raleigh-Cary, NC",672,692,680,722,701,656,861,779,904,982,1257,1197,10103
+Metropolitan Statistical Area,117140,17140,"Cincinnati-Middletown, OH-KY-IN",864,928,1004,956,788,627,697,581,566,636,926,850,9423
+Metropolitan Statistical Area,117460,17460,"Cleveland-Elyria-Mentor, OH",772,781,737,699,647,555,557,523,518,513,751,725,7775
+Metropolitan Statistical Area,138300,38300,"Pittsburgh, PA",736,664,644,665,618,492,623,491,495,571,740,716,7455
+Metropolitan Statistical Area,112580,12580,"Baltimore-Towson, MD",645,685,669,650,602,523,601,532,531,576,711,667,7390
+Metropolitan Statistical Area,110580,10580,"Albany-Schenectady-Troy, NY",495,613,764,661,583,468,544,492,516,554,736,713,7137
+Metropolitan Statistical Area,141180,41180,"St. Louis, MO-IL",632,674,688,672,596,470,537,485,452,533,721,616,7076
+Metropolitan Statistical Area,114860,14860,"Bridgeport-Stamford-Norwalk, CT",669,628,594,576,562,533,561,493,517,519,691,682,7025
+Metropolitan Statistical Area,119740,19740,"Denver-Aurora-Broomfield, CO",627,606,577,596,541,492,594,502,480,506,754,745,7018
+Metropolitan Statistical Area,139100,39100,"Poughkeepsie-Newburgh-Middletown, NY",523,603,576,558,475,415,584,462,593,637,825,756,7006
+Metropolitan Statistical Area,133340,33340,"Milwaukee-Waukesha-West Allis, WI",532,645,662,546,489,461,575,482,429,506,559,552,6438
+Metropolitan Statistical Area,114500,14500,"Boulder, CO",458,470,489,486,547,427,489,441,427,502,599,595,5928
+Metropolitan Statistical Area,125540,25540,"Hartford-West Hartford-East Hartford, CT",481,515,531,463,435,401,518,391,412,409,557,635,5745
+Metropolitan Statistical Area,140900,40900,"Sacramento--Arden-Arcade--Roseville, CA",441,429,447,509,487,455,519,431,408,385,478,470,5459
+Metropolitan Statistical Area,126900,26900,"Indianapolis-Carmel, IN",544,513,499,485,409,344,446,415,369,397,495,497,5413
+Metropolitan Statistical Area,137100,37100,"Oxnard-Thousand Oaks-Ventura, CA",375,427,433,460,449,406,458,411,381,383,530,535,5245
+Metropolitan Statistical Area,111460,11460,"Ann Arbor, MI",371,395,356,382,429,394,405,322,368,381,561,564,4928
+Metropolitan Statistical Area,139300,39300,"Providence-New Bedford-Fall River, RI-MA",472,411,401,397,477,361,435,393,324,329,403,483,4886
+Metropolitan Statistical Area,149340,49340,"Worcester, MA",362,392,341,376,363,285,394,362,372,413,497,536,4691
+Metropolitan Statistical Area,142100,42100,"Santa Cruz-Watsonville, CA",355,379,349,370,368,302,400,349,347,381,514,530,4641
+Metropolitan Statistical Area,115540,15540,"Burlington-South Burlington, VT",311,365,413,359,322,303,371,405,378,384,558,443,4612
+Metropolitan Statistical Area,146060,46060,"Tucson, AZ",268,325,306,306,342,320,373,336,385,412,550,601,4524
+Metropolitan Statistical Area,120500,20500,"Durham-Chapel Hill, NC",325,364,328,369,312,295,412,320,345,396,496,522,4484
+Metropolitan Statistical Area,128140,28140,"Kansas City, MO-KS",291,230,308,298,321,286,383,394,368,376,545,636,4436
+Metropolitan Statistical Area,122660,22660,"Fort Collins-Loveland, CO",302,347,371,456,459,430,482,372,315,301,302,289,4422
+Metropolitan Statistical Area,145300,45300,"Tampa-St. Petersburg-Clearwater, FL",407,367,337,364,332,290,363,286,327,297,469,490,4329
+Metropolitan Statistical Area,141620,41620,"Salt Lake City, UT",374,388,362,343,337,260,322,309,273,327,443,494,4232
+Metropolitan Statistical Area,140140,40140,"Riverside-San Bernardino-Ontario, CA",362,358,380,392,355,308,364,293,291,295,425,376,4198
+Metropolitan Statistical Area,135300,35300,"New Haven-Milford, CT",385,375,347,337,323,331,330,296,262,312,429,421,4148
+Metropolitan Statistical Area,118140,18140,"Columbus, OH",342,361,355,345,386,256,326,255,265,303,463,445,4102
+Metropolitan Statistical Area,114740,14740,"Bremerton-Silverdale, WA",208,222,245,242,214,242,318,340,366,482,608,537,4021
+Metropolitan Statistical Area,140340,40340,"Rochester, MN",262,265,254,262,287,267,320,264,333,380,492,469,3855
+Metropolitan Statistical Area,145940,45940,"Trenton-Ewing, NJ",349,366,370,315,261,229,317,262,287,286,399,383,3821
+Metropolitan Statistical Area,110420,10420,"Akron, OH",318,359,379,343,329,273,335,266,250,282,333,352,3819
+Metropolitan Statistical Area,110900,10900,"Allentown-Bethlehem-Easton, PA-NJ",387,384,316,311,286,255,271,269,245,287,324,306,3641
+Metropolitan Statistical Area,131540,31540,"Madison, WI",238,258,269,276,228,224,299,250,256,316,398,382,3394
+Metropolitan Statistical Area,137340,37340,"Palm Bay-Melbourne-Titusville, FL",217,277,291,293,296,314,302,299,228,248,272,287,3322
+Metropolitan Statistical Area,131700,31700,"Manchester-Nashua, NH",260,257,278,304,283,230,263,258,226,262,327,327,3271
+Metropolitan Statistical Area,115380,15380,"Buffalo-Niagara Falls, NY",363,354,333,361,324,218,229,202,177,204,237,256,3258
+Metropolitan Statistical Area,136740,36740,"Orlando-Kissimmee-Sanford, FL",183,253,221,248,253,235,252,220,209,246,303,324,2946
+Metropolitan Statistical Area,117820,17820,"Colorado Springs, CO",272,278,264,309,281,252,242,190,181,173,201,197,2840
+Metropolitan Statistical Area,118700,18700,"Corvallis, OR",131,155,198,211,247,259,323,290,265,229,250,202,2760
+Metropolitan Statistical Area,116740,16740,"Charlotte-Gastonia-Rock Hill, NC-SC",273,261,245,216,185,171,209,185,190,211,309,283,2735
+Metropolitan Statistical Area,110740,10740,"Albuquerque, NM",223,251,248,241,246,177,209,187,182,199,257,250,2670
+Metropolitan Statistical Area,141700,41700,"San Antonio-New Braunfels, TX",245,238,223,207,200,149,198,187,149,169,315,327,2607
+Metropolitan Statistical Area,142060,42060,"Santa Barbara-Santa Maria-Goleta, CA",171,186,188,229,201,209,211,238,173,207,255,274,2542
+Metropolitan Statistical Area,119380,19380,"Dayton, OH",274,259,288,288,238,171,188,167,147,153,182,185,2540
+Metropolitan Statistical Area,139340,39340,"Provo-Orem, UT",132,127,133,124,151,109,155,162,199,242,323,325,2182
+Metropolitan Statistical Area,130460,30460,"Lexington-Fayette, KY",176,203,179,170,155,134,184,189,201,157,230,187,2165
+Metropolitan Statistical Area,129820,29820,"Las Vegas-Paradise, NV",167,156,141,181,169,191,171,195,189,144,225,231,2160
+Metropolitan Statistical Area,142220,42220,"Santa Rosa-Petaluma, CA",148,154,173,171,216,186,212,163,140,177,213,198,2151
+Metropolitan Statistical Area,124540,24540,"Greeley, CO",118,145,153,163,198,203,233,187,160,174,192,191,2113
+Metropolitan Statistical Area,137900,37900,"Peoria, IL",236,188,186,179,132,128,137,144,170,165,215,233,2113
+Metropolitan Statistical Area,124860,24860,"Greenville-Mauldin-Easley, SC",136,178,181,167,152,147,201,146,134,163,189,282,2076
+Metropolitan Statistical Area,140060,40060,"Richmond, VA",166,161,169,181,168,132,155,143,143,156,258,224,2056
+Metropolitan Statistical Area,132820,32820,"Memphis, TN-MS-AR",153,144,142,141,133,107,161,159,130,185,296,302,2052
+Metropolitan Statistical Area,113780,13780,"Binghamton, NY",221,237,206,215,185,152,196,157,121,106,116,117,2029
+Metropolitan Statistical Area,139900,39900,"Reno-Sparks, NV",115,115,122,165,186,145,168,132,149,160,264,276,1998
+Metropolitan Statistical Area,119780,19780,"Des Moines-West Des Moines, IA",119,188,116,147,143,140,178,183,143,189,174,233,1953
+Metropolitan Statistical Area,124340,24340,"Grand Rapids-Wyoming, MI",174,194,195,181,165,140,141,127,135,117,159,189,1917
+Metropolitan Statistical Area,145060,45060,"Syracuse, NY",195,147,140,157,144,147,174,161,123,119,164,188,1859
+Metropolitan Statistical Area,128940,28940,"Knoxville, TN",170,183,174,167,140,123,127,136,122,120,202,188,1852
+Metropolitan Statistical Area,134980,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",155,164,151,159,151,113,149,116,126,130,196,212,1822
+Metropolitan Statistical Area,111540,11540,"Appleton, WI",148,175,187,197,199,145,131,112,109,78,118,111,1710
+Metropolitan Statistical Area,126100,26100,"Holland-Grand Haven, MI",166,165,178,146,129,128,135,106,140,128,133,133,1684
+Metropolitan Statistical Area,147260,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",148,149,161,169,137,125,121,127,121,108,161,111,1638
+Metropolitan Statistical Area,136420,36420,"Oklahoma City, OK",178,176,156,146,115,113,148,136,111,100,120,127,1626
+Metropolitan Statistical Area,145780,45780,"Toledo, OH",202,190,147,129,130,104,119,103,110,105,136,143,1615
+Metropolitan Statistical Area,131140,31140,"Louisville/Jefferson County, KY-IN",147,148,120,152,168,116,125,113,101,96,159,156,1601
+Metropolitan Statistical Area,135980,35980,"Norwich-New London, CT",165,175,186,184,141,154,139,104,86,86,94,84,1598
+Metropolitan Statistical Area,115940,15940,"Canton-Massillon, OH",108,110,140,136,117,105,141,133,135,135,148,166,1574
+Metropolitan Statistical Area,126620,26620,"Huntsville, AL",103,126,132,147,138,114,122,107,112,115,201,148,1565
+Metropolitan Statistical Area,123060,23060,"Fort Wayne, IN",153,144,180,142,148,101,93,99,92,99,126,118,1495
+Metropolitan Statistical Area,146140,46140,"Tulsa, OK",135,154,118,138,133,107,130,106,94,91,152,135,1493
+Metropolitan Statistical Area,136780,36780,"Oshkosh-Neenah, WI",128,117,132,146,140,124,101,105,86,90,145,129,1443
+Metropolitan Statistical Area,125420,25420,"Harrisburg-Carlisle, PA",142,114,123,114,142,93,120,104,104,97,151,128,1432
+Metropolitan Statistical Area,116300,16300,"Cedar Rapids, IA",101,104,129,121,103,82,82,88,106,174,148,175,1413
+Metropolitan Statistical Area,127260,27260,"Jacksonville, FL",111,106,114,132,124,106,122,107,91,84,168,143,1408
+Metropolitan Statistical Area,124660,24660,"Greensboro-High Point, NC",129,121,122,142,145,103,129,95,66,73,120,151,1396
+Metropolitan Statistical Area,144140,44140,"Springfield, MA",111,136,167,126,89,89,132,96,85,125,118,120,1392
+Metropolitan Statistical Area,136260,36260,"Ogden-Clearfield, UT",131,117,113,102,126,101,127,88,103,93,133,133,1367
+Metropolitan Statistical Area,135380,35380,"New Orleans-Metairie-Kenner, LA",155,161,169,120,120,70,115,85,78,86,100,97,1356
+Metropolitan Statistical Area,129540,29540,"Lancaster, PA",111,114,92,124,134,102,116,95,77,101,120,119,1305
+Metropolitan Statistical Area,135840,35840,"North Port-Bradenton-Sarasota, FL",108,114,87,106,103,109,110,109,95,93,130,133,1294
+Metropolitan Statistical Area,138860,38860,"Portland-South Portland-Biddeford, ME",74,94,102,99,80,111,109,79,74,92,163,133,1210
+Metropolitan Statistical Area,123540,23540,"Gainesville, FL",101,118,95,101,84,96,114,85,77,114,110,108,1203
+Metropolitan Statistical Area,148620,48620,"Wichita, KS",97,74,94,107,110,88,120,73,73,88,105,105,1134
+Metropolitan Statistical Area,127060,27060,"Ithaca, NY",92,85,83,100,105,78,98,87,74,83,123,115,1123
+Metropolitan Statistical Area,128020,28020,"Kalamazoo-Portage, MI",109,113,104,103,101,111,97,67,77,58,73,88,1101
+Metropolitan Statistical Area,122420,22420,"Flint, MI",81,84,110,100,87,93,105,90,64,94,84,85,1077
+Metropolitan Statistical Area,136540,36540,"Omaha-Council Bluffs, NE-IA",95,88,88,93,88,70,79,79,102,89,103,98,1072
+Metropolitan Statistical Area,116580,16580,"Champaign-Urbana, IL",62,57,57,67,95,58,107,97,78,107,121,136,1042
+Metropolitan Statistical Area,149620,49620,"York-Hanover, PA",83,81,107,93,72,66,88,68,92,67,113,112,1042
+Metropolitan Statistical Area,112940,12940,"Baton Rouge, LA",167,147,103,115,85,73,59,68,61,45,51,64,1038
+Metropolitan Statistical Area,128700,28700,"Kingsport-Bristol-Bristol, TN-VA",126,122,122,101,84,53,43,76,64,67,65,96,1019
+Metropolitan Statistical Area,140420,40420,"Rockford, IL",101,104,83,85,59,58,85,91,65,68,93,117,1009
+Metropolitan Statistical Area,113820,13820,"Birmingham-Hoover, AL",64,94,98,109,91,82,88,69,56,74,92,86,1003
+Metropolitan Statistical Area,139540,39540,"Racine, WI",89,78,114,96,90,74,82,66,71,67,78,78,983
+Metropolitan Statistical Area,149180,49180,"Winston-Salem, NC",82,89,90,78,86,61,69,80,65,72,101,102,975
+Metropolitan Statistical Area,129140,29140,"Lafayette, IN",88,75,85,80,65,69,61,77,59,84,122,101,966
+Metropolitan Statistical Area,129620,29620,"Lansing-East Lansing, MI",84,79,104,88,56,71,63,73,68,72,80,79,917
+Metropolitan Statistical Area,139740,39740,"Reading, PA",130,116,104,96,87,62,60,46,60,37,60,56,914
+Metropolitan Statistical Area,143780,43780,"South Bend-Mishawaka, IN-MI",69,82,70,91,73,70,76,66,66,61,79,90,893
+Metropolitan Statistical Area,121500,21500,"Erie, PA",103,97,86,73,60,64,71,61,54,57,63,77,866
+Metropolitan Statistical Area,128740,28740,"Kingston, NY",78,70,76,62,71,58,70,79,59,69,82,90,864
+Metropolitan Statistical Area,142020,42020,"San Luis Obispo-Paso Robles, CA",73,59,56,99,85,69,77,43,52,56,68,64,801
+Metropolitan Statistical Area,143900,43900,"Spartanburg, SC",59,73,86,99,76,76,83,50,43,56,47,53,801
+Metropolitan Statistical Area,125860,25860,"Hickory-Lenoir-Morganton, NC",73,78,75,74,62,71,65,69,63,45,73,49,797
+Metropolitan Statistical Area,138940,38940,"Port St. Lucie, FL",43,60,41,46,57,54,52,69,33,77,113,138,783
+Metropolitan Statistical Area,119340,19340,"Davenport-Moline-Rock Island, IA-IL",44,70,74,84,80,45,57,59,56,49,71,92,781
+Metropolitan Statistical Area,128420,28420,"Kennewick-Pasco-Richland, WA",59,56,65,93,74,64,79,40,48,51,74,69,772
+Metropolitan Statistical Area,144060,44060,"Spokane, WA",53,56,72,62,72,56,79,68,59,49,73,73,772
+Metropolitan Statistical Area,121660,21660,"Eugene-Springfield, OR",73,75,66,71,43,56,62,68,52,57,84,56,763
+Metropolitan Statistical Area,116820,16820,"Charlottesville, VA",72,70,50,65,50,38,52,55,56,47,82,101,738
+Metropolitan Statistical Area,117900,17900,"Columbia, SC",69,76,58,63,67,48,62,41,40,53,61,86,724
+Metropolitan Statistical Area,111180,11180,"Ames, IA",65,75,42,58,62,46,64,61,51,69,71,58,722
+Metropolitan Statistical Area,116700,16700,"Charleston-North Charleston-Summerville, SC",82,65,93,63,71,52,52,41,36,46,55,62,718
+Metropolitan Statistical Area,142540,42540,"Scranton--Wilkes-Barre, PA",80,67,68,60,69,51,51,58,60,54,48,50,716
+Metropolitan Statistical Area,112540,12540,"Bakersfield-Delano, CA",66,68,56,61,74,48,43,60,58,55,51,70,710
+Metropolitan Statistical Area,149660,49660,"Youngstown-Warren-Boardman, OH-PA",67,62,80,51,57,43,61,46,55,54,71,57,704
+Metropolitan Statistical Area,113980,13980,"Blacksburg-Christiansburg-Radford, VA",42,36,55,58,65,69,71,66,63,51,61,53,690
+Metropolitan Statistical Area,121780,21780,"Evansville, IN-KY",66,38,65,44,57,52,47,57,56,52,81,69,684
+Metropolitan Statistical Area,141500,41500,"Salinas, CA",54,57,68,51,59,64,55,54,47,45,57,73,684
+Metropolitan Statistical Area,130700,30700,"Lincoln, NE",83,64,62,46,52,51,51,64,51,50,59,50,683
+Metropolitan Statistical Area,121300,21300,"Elmira, NY",46,78,76,84,75,51,37,44,28,29,48,60,656
+Metropolitan Statistical Area,144300,44300,"State College, PA",56,72,64,60,55,42,43,51,47,36,66,64,656
+Metropolitan Statistical Area,126180,26180,"Honolulu, HI",52,71,57,50,47,32,54,46,56,43,77,63,648
+Metropolitan Statistical Area,129020,29020,"Kokomo, IN",44,45,46,57,59,50,55,66,62,65,55,39,643
+Metropolitan Statistical Area,126980,26980,"Iowa City, IA",42,70,53,47,38,34,52,42,53,51,85,58,625
+Metropolitan Statistical Area,111700,11700,"Asheville, NC",59,63,70,53,56,60,53,38,31,49,38,42,612
+Metropolitan Statistical Area,135660,35660,"Niles-Benton Harbor, MI",48,36,29,40,34,33,55,48,40,52,74,104,593
+Metropolitan Statistical Area,140220,40220,"Roanoke, VA",60,54,46,40,40,48,51,46,40,36,50,67,578
+Metropolitan Statistical Area,130780,30780,"Little Rock-North Little Rock-Conway, AR",75,73,48,37,37,49,46,36,30,36,58,48,573
+Metropolitan Statistical Area,144700,44700,"Stockton, CA",56,51,58,52,40,36,46,41,32,34,54,62,562
+Metropolitan Statistical Area,129180,29180,"Lafayette, LA",56,56,51,53,46,41,40,43,39,44,38,54,561
+Metropolitan Statistical Area,119660,19660,"Deltona-Daytona Beach-Ormond Beach, FL",59,52,51,51,44,37,42,44,36,44,49,46,555
+Metropolitan Statistical Area,134940,34940,"Naples-Marco Island, FL",42,32,43,59,32,43,69,53,28,39,46,61,547
+Metropolitan Statistical Area,126820,26820,"Idaho Falls, ID",37,38,44,35,39,43,61,61,32,36,69,51,546
+Metropolitan Statistical Area,117780,17780,"College Station-Bryan, TX",44,46,63,51,46,37,48,53,29,33,50,45,545
+Metropolitan Statistical Area,130860,30860,"Logan, UT-ID",48,42,32,35,34,45,46,34,34,64,68,55,537
+Metropolitan Statistical Area,116860,16860,"Chattanooga, TN-GA",60,71,53,44,53,43,36,35,37,29,40,33,534
+Metropolitan Statistical Area,146700,46700,"Vallejo-Fairfield, CA",37,48,38,42,45,38,44,38,45,45,60,50,529
+Metropolitan Statistical Area,118020,18020,"Columbus, IN",60,51,47,52,42,39,37,33,30,38,48,45,522
+Metropolitan Statistical Area,140980,40980,"Saginaw-Saginaw Township North, MI",40,26,62,64,55,33,41,35,27,34,49,55,521
+Metropolitan Statistical Area,112260,12260,"Augusta-Richmond County, GA-SC",38,50,61,44,29,29,31,41,41,39,56,52,511
+Metropolitan Statistical Area,121140,21140,"Elkhart-Goshen, IN",50,47,39,43,53,47,39,44,27,30,43,44,506
+Metropolitan Statistical Area,145220,45220,"Tallahassee, FL",31,26,50,42,40,46,37,34,25,36,72,55,494
+Metropolitan Statistical Area,115980,15980,"Cape Coral-Fort Myers, FL",42,49,39,46,50,39,47,26,39,33,44,37,491
+Metropolitan Statistical Area,148900,48900,"Wilmington, NC",33,56,44,46,44,23,33,41,32,52,38,49,491
+Metropolitan Statistical Area,112700,12700,"Barnstable Town, MA",50,46,32,42,44,33,46,40,39,35,45,32,484
+Metropolitan Statistical Area,123420,23420,"Fresno, CA",58,40,44,36,40,39,33,27,25,31,39,56,468
+Metropolitan Statistical Area,143100,43100,"Sheboygan, WI",33,43,50,38,45,38,37,23,27,44,47,35,460
+Metropolitan Statistical Area,113460,13460,"Bend, OR",31,31,24,21,29,44,46,39,37,49,46,61,458
+Metropolitan Statistical Area,114020,14020,"Bloomington, IN",21,27,29,40,26,27,29,24,22,38,91,77,451
+Metropolitan Statistical Area,141420,41420,"Salem, OR",38,43,41,37,50,32,44,41,23,26,37,38,450
+Metropolitan Statistical Area,124580,24580,"Green Bay, WI",45,54,42,35,31,36,50,32,28,29,30,31,443
+Metropolitan Statistical Area,122020,22020,"Fargo, ND-MN",47,40,30,21,17,30,31,39,43,35,55,54,442
+Metropolitan Statistical Area,133780,33780,"Monroe, MI",38,42,36,35,48,18,37,23,35,34,47,46,439
+Metropolitan Statistical Area,112020,12020,"Athens-Clarke County, GA",66,46,37,29,27,23,26,26,40,30,40,48,438
+Metropolitan Statistical Area,142140,42140,"Santa Fe, NM",30,37,29,40,34,20,46,27,30,33,63,47,436
+Metropolitan Statistical Area,113380,13380,"Bellingham, WA",41,31,32,34,31,32,39,42,32,33,45,43,435
+Metropolitan Statistical Area,122220,22220,"Fayetteville-Springdale-Rogers, AR-MO",48,31,47,32,42,30,39,31,26,32,31,42,431
+Metropolitan Statistical Area,137860,37860,"Pensacola-Ferry Pass-Brent, FL",52,31,27,42,28,44,28,40,31,29,33,40,425
+Metropolitan Statistical Area,121340,21340,"El Paso, TX",29,32,46,45,51,36,39,33,25,16,23,23,398
+Metropolitan Statistical Area,133700,33700,"Modesto, CA",42,54,35,32,32,14,37,30,23,19,34,43,395
+Metropolitan Statistical Area,143580,43580,"Sioux City, IA-NE-SD",32,34,50,42,43,38,40,22,24,18,25,17,385
+Metropolitan Statistical Area,120740,20740,"Eau Claire, WI",36,34,29,32,45,40,33,20,24,23,33,22,371
+Metropolitan Statistical Area,122500,22500,"Florence, SC",42,30,34,27,37,26,47,30,20,20,25,21,359
+Metropolitan Statistical Area,147940,47940,"Waterloo-Cedar Falls, IA",23,33,42,32,32,32,31,24,21,31,25,29,355
+Metropolitan Statistical Area,144180,44180,"Springfield, MO",34,42,32,31,24,18,24,32,30,24,32,26,349
+Metropolitan Statistical Area,136500,36500,"Olympia, WA",21,30,35,28,27,20,33,28,34,21,34,36,347
+Metropolitan Statistical Area,129460,29460,"Lakeland-Winter Haven, FL",39,39,31,40,37,19,20,27,26,18,16,38,347
+Metropolitan Statistical Area,131340,31340,"Lynchburg, VA",37,38,41,31,23,26,17,27,26,21,23,31,341
+Metropolitan Statistical Area,116620,16620,"Charleston, WV",43,49,44,34,19,28,20,25,12,22,22,19,337
+Metropolitan Statistical Area,122380,22380,"Flagstaff, AZ",27,25,24,26,23,25,19,13,19,20,41,58,319
+Metropolitan Statistical Area,117860,17860,"Columbia, MO",22,32,27,30,24,19,32,18,12,18,31,39,304
+Metropolitan Statistical Area,127140,27140,"Jackson, MS",42,32,20,37,28,23,13,24,13,18,23,31,304
+Metropolitan Statistical Area,134900,34900,"Napa, CA",21,29,17,29,28,20,26,25,15,27,31,32,299
+Metropolitan Statistical Area,122540,22540,"Fond du Lac, WI",32,25,26,27,28,32,31,27,26,10,18,16,298
+Metropolitan Statistical Area,127100,27100,"Jackson, MI",34,26,39,32,30,22,22,19,22,15,18,18,297
+Metropolitan Statistical Area,127180,27180,"Jackson, TN",20,20,23,29,21,32,49,28,23,11,19,16,291
+Metropolitan Statistical Area,127740,27740,"Johnson City, TN",21,28,47,33,15,19,19,19,20,17,27,26,291
+Metropolitan Statistical Area,111260,11260,"Anchorage, AK",31,33,33,30,28,25,25,10,12,29,19,15,290
+Metropolitan Statistical Area,127500,27500,"Janesville, WI",21,33,24,21,18,17,23,21,19,21,27,38,283
+Metropolitan Statistical Area,137460,37460,"Panama City-Lynn Haven-Panama City Beach, FL",27,31,34,28,25,31,26,25,15,13,15,7,275
+Metropolitan Statistical Area,131180,31180,"Lubbock, TX",31,32,38,28,15,17,29,18,20,21,14,11,274
+Metropolitan Statistical Area,111340,11340,"Anderson, SC",23,31,25,28,22,19,26,14,20,13,19,25,265
+Metropolitan Statistical Area,137620,37620,"Parkersburg-Marietta-Vienna, WV-OH",30,28,26,21,20,12,19,27,19,12,26,18,258
+Metropolitan Statistical Area,127900,27900,"Joplin, MO",29,26,24,27,33,11,22,17,16,21,18,12,256
+Metropolitan Statistical Area,138340,38340,"Pittsfield, MA",33,30,27,21,23,10,15,16,6,26,23,26,256
+Metropolitan Statistical Area,148700,48700,"Williamsport, PA",16,21,44,23,23,16,19,16,18,14,23,20,253
+Metropolitan Statistical Area,113020,13020,"Bay City, MI",22,23,21,30,22,21,20,23,18,21,12,15,248
+Metropolitan Statistical Area,112220,12220,"Auburn-Opelika, AL",22,16,27,19,18,18,14,23,20,26,23,24,247
+Metropolitan Statistical Area,146540,46540,"Utica-Rome, NY",23,23,14,19,24,17,25,16,17,15,23,29,245
+Metropolitan Statistical Area,134740,34740,"Muskegon-Norton Shores, MI",28,37,36,25,25,14,15,16,10,15,10,16,244
+Metropolitan Statistical Area,114060,14060,"Bloomington-Normal, IL",22,13,22,32,13,23,14,18,27,23,13,23,243
+Metropolitan Statistical Area,118580,18580,"Corpus Christi, TX",29,31,23,21,22,17,16,12,14,17,19,18,239
+Metropolitan Statistical Area,133660,33660,"Mobile, AL",26,31,20,19,17,16,29,20,10,19,18,13,238
+Metropolitan Statistical Area,144100,44100,"Springfield, IL",23,22,33,13,7,14,12,20,14,21,32,25,236
+Metropolitan Statistical Area,123580,23580,"Gainesville, GA",17,24,12,20,20,22,27,19,13,17,23,19,233
+Metropolitan Statistical Area,112980,12980,"Battle Creek, MI",24,26,19,20,19,22,24,16,12,11,13,26,232
+Metropolitan Statistical Area,113140,13140,"Beaumont-Port Arthur, TX",30,29,14,23,14,13,16,22,12,14,22,23,232
+Metropolitan Statistical Area,129100,29100,"La Crosse, WI-MN",29,27,22,26,16,14,10,15,16,15,22,18,230
+Metropolitan Statistical Area,129940,29940,"Lawrence, KS",24,10,30,18,11,16,17,18,14,20,23,25,226
+Metropolitan Statistical Area,136100,36100,"Ocala, FL",19,19,24,22,12,16,21,23,11,18,23,20,226
+Metropolitan Statistical Area,143620,43620,"Sioux Falls, SD",28,20,19,16,14,12,10,16,14,13,25,35,222
+Metropolitan Statistical Area,143340,43340,"Shreveport-Bossier City, LA",13,23,22,20,10,10,20,6,13,20,32,31,220
+Metropolitan Statistical Area,139140,39140,"Prescott, AZ",16,24,18,22,20,13,23,18,22,14,17,13,219
+Metropolitan Statistical Area,111300,11300,"Anderson, IN",11,22,24,26,26,27,18,5,7,9,22,17,214
+Metropolitan Statistical Area,126380,26380,"Houma-Bayou Cane-Thibodaux, LA",17,23,14,15,15,23,25,21,10,22,22,7,214
+Metropolitan Statistical Area,120220,20220,"Dubuque, IA",17,28,18,14,8,16,13,18,15,14,27,25,213
+Metropolitan Statistical Area,143300,43300,"Sherman-Denison, TX",18,24,26,23,21,20,19,18,10,10,11,11,211
+Metropolitan Statistical Area,130980,30980,"Longview, TX",27,23,21,15,14,12,13,12,19,8,17,26,207
+Metropolitan Statistical Area,119500,19500,"Decatur, IL",17,17,22,22,18,17,12,10,11,14,21,24,205
+Metropolitan Statistical Area,120260,20260,"Duluth, MN-WI",15,10,25,26,18,12,14,15,10,19,14,26,204
+Metropolitan Statistical Area,124020,24020,"Glens Falls, NY",26,27,19,17,14,15,14,21,11,16,11,14,203
+Metropolitan Statistical Area,142340,42340,"Savannah, GA",15,24,16,15,21,16,15,15,14,12,14,23,200
+Metropolitan Statistical Area,124780,24780,"Greenville, NC",21,16,16,13,14,10,14,15,13,15,26,26,199
+Metropolitan Statistical Area,131860,31860,"Mankato-North Mankato, MN",17,30,13,16,14,11,17,9,9,21,13,28,198
+Metropolitan Statistical Area,125060,25060,"Gulfport-Biloxi, MS",19,27,27,22,11,14,6,11,14,16,16,12,195
+Metropolitan Statistical Area,132780,32780,"Medford, OR",18,14,24,11,13,13,18,15,13,14,24,13,190
+Metropolitan Statistical Area,134060,34060,"Morgantown, WV",14,11,14,21,11,10,10,14,12,20,31,19,187
+Metropolitan Statistical Area,146340,46340,"Tyler, TX",10,21,13,11,10,13,9,19,18,20,27,14,185
+Metropolitan Statistical Area,112100,12100,"Atlantic City-Hammonton, NJ",19,9,18,16,20,7,12,15,21,14,17,13,181
+Metropolitan Statistical Area,115500,15500,"Burlington, NC",15,26,19,18,15,15,12,4,13,10,11,23,181
+Metropolitan Statistical Area,133260,33260,"Midland, TX",16,16,11,8,12,10,19,13,15,18,21,18,177
+Metropolitan Statistical Area,118880,18880,"Crestview-Fort Walton Beach-Destin, FL",18,30,27,16,13,9,19,13,10,4,7,13,176
+Metropolitan Statistical Area,125180,25180,"Hagerstown-Martinsburg, MD-WV",12,16,27,21,12,10,13,10,10,16,12,16,175
+Metropolitan Statistical Area,128660,28660,"Killeen-Temple-Fort Hood, TX",14,20,19,16,17,16,17,16,8,11,10,10,174
+Metropolitan Statistical Area,131740,31740,"Manhattan, KS",12,15,14,13,17,13,9,14,12,14,19,21,173
+Metropolitan Statistical Area,131420,31420,"Macon, GA",20,13,16,16,19,12,13,15,12,11,14,10,171
+Metropolitan Statistical Area,139460,39460,"Punta Gorda, FL",16,20,15,18,12,13,9,14,10,14,17,16,171
+Metropolitan Statistical Area,141980,41980,"San Juan-Caguas-Guaynabo, PR",18,8,13,18,11,16,11,20,10,9,22,14,170
+Metropolitan Statistical Area,141060,41060,"St. Cloud, MN",23,10,15,18,19,15,13,9,15,6,10,18,168
+Metropolitan Statistical Area,133860,33860,"Montgomery, AL",15,17,21,15,18,14,17,10,13,12,12,3,166
+Metropolitan Statistical Area,142680,42680,"Sebastian-Vero Beach, FL",16,12,9,15,13,7,14,10,10,15,24,15,158
+Metropolitan Statistical Area,111100,11100,"Amarillo, TX",22,16,10,12,6,6,15,11,7,12,23,15,155
+Metropolitan Statistical Area,134820,34820,"Myrtle Beach-North Myrtle Beach-Conway, SC",5,8,14,13,11,16,13,13,12,16,15,16,152
+Metropolitan Statistical Area,148140,48140,"Wausau, WI",17,13,17,16,12,10,9,9,7,10,14,16,150
+Metropolitan Statistical Area,117660,17660,"Coeur d'Alene, ID",14,15,9,14,13,13,12,6,6,15,13,18,148
+Metropolitan Statistical Area,139820,39820,"Redding, CA",15,16,14,14,16,8,13,14,12,8,9,8,147
+Metropolitan Statistical Area,134100,34100,"Morristown, TN",8,6,21,23,15,13,11,6,9,16,9,9,146
+Metropolitan Statistical Area,149420,49420,"Yakima, WA",23,20,19,11,12,9,14,10,8,6,4,6,142
+Metropolitan Statistical Area,129740,29740,"Las Cruces, NM",9,16,11,9,8,9,11,16,5,11,21,15,141
+Metropolitan Statistical Area,144220,44220,"Springfield, OH",17,9,9,18,10,13,6,7,10,12,17,13,141
+Metropolitan Statistical Area,133540,33540,"Missoula, MT",13,16,17,15,10,17,13,8,7,7,12,5,140
+Metropolitan Statistical Area,126580,26580,"Huntington-Ashland, WV-KY-OH",15,14,19,11,9,6,9,7,17,8,14,7,136
+Metropolitan Statistical Area,147380,47380,"Waco, TX",13,11,17,11,12,11,8,10,10,6,6,19,134
+Metropolitan Statistical Area,130140,30140,"Lebanon, PA",15,15,11,9,5,12,10,7,15,9,10,14,132
+Metropolitan Statistical Area,119460,19460,"Decatur, AL",10,12,15,11,13,5,10,17,11,10,9,7,130
+Metropolitan Statistical Area,117020,17020,"Chico, CA",15,13,16,6,8,7,15,7,7,11,15,12,130
+Metropolitan Statistical Area,124300,24300,"Grand Junction, CO",10,17,13,10,12,7,8,11,10,7,13,11,129
+Metropolitan Statistical Area,114540,14540,"Bowling Green, KY",13,12,10,9,4,12,6,9,7,10,14,21,127
+Metropolitan Statistical Area,129340,29340,"Lake Charles, LA",19,19,14,17,10,6,9,4,11,8,3,7,127
+Metropolitan Statistical Area,141100,41100,"St. George, UT",6,14,13,8,13,12,7,7,10,9,13,15,127
+Metropolitan Statistical Area,136220,36220,"Odessa, TX",17,5,8,12,10,6,8,12,6,12,13,16,125
+Metropolitan Statistical Area,147300,47300,"Visalia-Porterville, CA",13,14,11,11,8,9,7,8,6,9,22,7,125
+Metropolitan Statistical Area,124220,24220,"Grand Forks, ND-MN",13,11,16,5,8,12,7,6,5,18,9,12,122
+Metropolitan Statistical Area,128100,28100,"Kankakee-Bradley, IL",5,10,10,7,10,21,7,10,10,6,15,11,122
+Metropolitan Statistical Area,133140,33140,"Michigan City-La Porte, IN",18,8,18,10,17,11,13,8,5,6,6,2,122
+Metropolitan Statistical Area,134580,34580,"Mount Vernon-Anacortes, WA",9,15,10,6,10,10,12,11,7,10,10,11,120
+Metropolitan Statistical Area,117980,17980,"Columbus, GA-AL",12,6,12,14,21,10,7,6,9,8,8,8,118
+Metropolitan Statistical Area,149020,49020,"Winchester, VA-WV",4,12,9,13,12,4,12,8,10,9,12,13,118
+Metropolitan Statistical Area,113900,13900,"Bismarck, ND",13,11,12,9,6,9,6,7,7,11,14,10,115
+Metropolitan Statistical Area,119140,19140,"Dalton, GA",12,10,14,13,11,9,10,10,10,5,3,7,114
+Metropolitan Statistical Area,148540,48540,"Wheeling, WV-OH",12,12,8,9,13,12,7,7,7,12,6,9,114
+Metropolitan Statistical Area,122180,22180,"Fayetteville, NC",9,10,4,8,15,14,9,7,8,7,11,11,113
+Metropolitan Statistical Area,131020,31020,"Longview, WA",9,12,8,6,6,9,14,6,12,8,11,11,112
+Metropolitan Statistical Area,145820,45820,"Topeka, KS",16,10,18,17,13,4,5,6,3,5,7,7,111
+Metropolitan Statistical Area,112620,12620,"Bangor, ME",5,8,7,10,10,8,7,10,9,5,15,15,109
+Metropolitan Statistical Area,117300,17300,"Clarksville, TN-KY",14,10,16,10,8,8,8,5,6,8,7,8,108
+Metropolitan Statistical Area,117420,17420,"Cleveland, TN",7,10,16,11,16,14,5,2,4,6,11,5,107
+Metropolitan Statistical Area,122900,22900,"Fort Smith, AR-OK",18,8,10,11,7,7,9,5,5,7,10,10,107
+Metropolitan Statistical Area,120100,20100,"Dover, DE",10,8,9,11,7,6,9,4,8,5,8,20,105
+Metropolitan Statistical Area,145460,45460,"Terre Haute, IN",7,11,12,15,8,12,11,6,9,3,7,4,105
+Metropolitan Statistical Area,148660,48660,"Wichita Falls, TX",14,11,15,15,5,4,7,5,8,7,7,5,103
+Metropolitan Statistical Area,141140,41140,"St. Joseph, MO-KS",5,6,7,13,12,8,11,8,4,9,8,10,101
+Metropolitan Statistical Area,129420,29420,"Lake Havasu City-Kingman, AZ",8,16,9,7,7,5,6,11,6,7,10,8,100
+Metropolitan Statistical Area,127780,27780,"Johnstown, PA",15,9,8,14,9,4,5,6,9,4,10,5,98
+Metropolitan Statistical Area,113740,13740,"Billings, MT",8,11,7,8,7,3,10,6,10,5,14,6,95
+Metropolitan Statistical Area,122520,22520,"Florence-Muscle Shoals, AL",11,16,12,7,5,12,8,4,5,2,6,6,94
+Metropolitan Statistical Area,146220,46220,"Tuscaloosa, AL",4,10,8,6,6,7,8,6,8,4,15,12,94
+Metropolitan Statistical Area,131900,31900,"Mansfield, OH",15,6,7,10,7,6,6,11,5,5,5,10,93
+Metropolitan Statistical Area,133740,33740,"Monroe, LA",10,15,12,5,5,9,8,5,6,4,9,5,93
+Metropolitan Statistical Area,139380,39380,"Pueblo, CO",5,6,3,5,7,3,4,8,7,9,21,15,93
+Metropolitan Statistical Area,139660,39660,"Rapid City, SD",11,8,5,6,5,7,8,10,6,5,8,14,93
+Metropolitan Statistical Area,141540,41540,"Salisbury, MD",11,16,11,11,2,1,5,4,9,6,6,11,93
+Metropolitan Statistical Area,141780,41780,"Sandusky, OH",7,8,8,3,11,8,5,5,4,7,9,20,92
+Metropolitan Statistical Area,137380,37380,"Palm Coast, FL",7,5,3,4,6,4,5,12,7,8,12,18,91
+Metropolitan Statistical Area,121060,21060,"Elizabethtown, KY",8,7,10,14,8,4,6,8,1,7,11,6,90
+Metropolitan Statistical Area,131460,31460,"Madera-Chowchilla, CA",13,5,4,3,9,8,7,9,9,7,8,5,87
+Metropolitan Statistical Area,149700,49700,"Yuba City, CA",10,9,6,11,8,5,4,8,10,4,9,3,87
+Metropolitan Statistical Area,116180,16180,"Carson City, NV",5,7,9,9,6,7,12,7,4,4,7,7,85
+Metropolitan Statistical Area,125620,25620,"Hattiesburg, MS",14,11,6,8,5,7,3,6,4,5,10,6,85
+Metropolitan Statistical Area,136980,36980,"Owensboro, KY",5,8,12,14,4,8,7,3,6,4,7,5,83
+Metropolitan Statistical Area,134620,34620,"Muncie, IN",8,7,7,6,9,9,7,6,4,4,1,10,78
+Metropolitan Statistical Area,147220,47220,"Vineland-Millville-Bridgeton, NJ",8,9,7,9,5,9,4,2,5,4,9,7,78
+Metropolitan Statistical Area,138540,38540,"Pocatello, ID",6,5,5,11,9,7,10,8,5,5,3,5,76
+Metropolitan Statistical Area,132580,32580,"McAllen-Edinburg-Mission, TX",17,6,6,9,7,3,7,5,4,7,3,1,75
+Metropolitan Statistical Area,122140,22140,"Farmington, NM",1,7,5,9,6,3,8,4,8,8,9,6,74
+Metropolitan Statistical Area,137700,37700,"Pascagoula, MS",8,8,11,7,11,3,5,7,7,1,4,1,73
+Metropolitan Statistical Area,144600,44600,"Steubenville-Weirton, OH-WV",6,8,4,5,9,6,10,6,6,5,5,2,72
+Metropolitan Statistical Area,132900,32900,"Merced, CA",8,9,8,5,9,7,6,4,2,5,3,4,70
+Metropolitan Statistical Area,125500,25500,"Harrisonburg, VA",9,2,12,3,6,4,3,3,6,4,9,8,69
+Metropolitan Statistical Area,111020,11020,"Altoona, PA",6,6,8,8,7,4,4,7,3,5,6,4,68
+Metropolitan Statistical Area,127860,27860,"Jonesboro, AR",3,5,3,8,4,4,4,5,10,2,10,8,66
+Metropolitan Statistical Area,110780,10780,"Alexandria, LA",8,7,4,3,7,3,5,7,5,4,6,6,65
+Metropolitan Statistical Area,130340,30340,"Lewiston-Auburn, ME",9,8,4,6,7,4,1,6,2,2,5,11,65
+Metropolitan Statistical Area,140580,40580,"Rocky Mount, NC",4,3,2,3,5,2,4,8,10,7,10,5,63
+Metropolitan Statistical Area,116020,16020,"Cape Girardeau-Jackson, MO-IL",5,6,2,7,5,4,8,7,3,5,8,5,62
+Metropolitan Statistical Area,140660,40660,"Rome, GA",4,7,4,4,4,6,6,4,4,6,7,3,59
+Metropolitan Statistical Area,145500,45500,"Texarkana, TX-Texarkana, AR",6,6,5,6,5,5,8,5,5,2,3,1,57
+Metropolitan Statistical Area,111500,11500,"Anniston-Oxford, AL",6,3,3,4,7,6,7,8,2,1,8,1,56
+Metropolitan Statistical Area,115180,15180,"Brownsville-Harlingen, TX",5,6,6,5,4,3,5,2,7,4,3,5,55
+Metropolitan Statistical Area,115260,15260,"Brunswick, GA",11,6,3,8,7,1,4,1,1,5,6,2,55
+Metropolitan Statistical Area,126300,26300,"Hot Springs, AR",4,4,5,4,5,5,4,5,2,4,4,9,55
+Metropolitan Statistical Area,120020,20020,"Dothan, AL",8,9,5,4,6,4,5,3,2,1,2,4,53
+Metropolitan Statistical Area,147580,47580,"Warner Robins, GA",7,6,4,2,6,5,7,5,2,3,1,5,53
+Metropolitan Statistical Area,148300,48300,"Wenatchee-East Wenatchee, WA",5,7,5,3,3,3,5,3,5,3,5,6,53
+Metropolitan Statistical Area,110500,10500,"Albany, GA",8,6,10,7,2,4,1,2,4,3,3,2,52
+Metropolitan Statistical Area,136140,36140,"Ocean City, NJ",7,8,6,2,1,5,7,4,1,2,4,4,51
+Metropolitan Statistical Area,130620,30620,"Lima, OH",4,11,6,7,3,3,3,5,2,1,3,5,51
+Metropolitan Statistical Area,110180,10180,"Abilene, TX",0,5,6,4,10,2,6,2,4,2,7,2,50
+Metropolitan Statistical Area,127620,27620,"Jefferson City, MO",8,8,6,5,5,4,0,3,1,3,5,2,50
+Metropolitan Statistical Area,149740,49740,"Yuma, AZ",1,4,5,5,1,6,9,6,3,3,1,6,50
+Metropolitan Statistical Area,116940,16940,"Cheyenne, WY",3,4,7,3,5,3,3,4,6,1,9,0,48
+Metropolitan Statistical Area,119180,19180,"Danville, IL",4,9,3,6,2,5,2,0,2,2,6,5,46
+Metropolitan Statistical Area,147020,47020,"Victoria, TX",6,4,3,7,2,7,1,2,2,4,1,4,43
+Metropolitan Statistical Area,146660,46660,"Valdosta, GA",6,1,3,5,4,5,2,3,5,0,2,4,40
+Metropolitan Statistical Area,144940,44940,"Sumter, SC",2,3,1,5,1,6,2,4,5,6,1,3,39
+Metropolitan Statistical Area,123460,23460,"Gadsden, AL",4,6,5,5,3,3,3,1,2,4,1,2,37
+Metropolitan Statistical Area,119060,19060,"Cumberland, MD-WV",1,7,4,0,2,4,4,3,2,0,1,4,32
+Metropolitan Statistical Area,132420,32420,"MayagÅez, PR",3,3,1,5,4,3,3,3,1,2,1,3,32
+Metropolitan Statistical Area,119260,19260,"Danville, VA",4,4,7,3,3,3,0,1,3,1,1,1,31
+Metropolitan Statistical Area,121820,21820,"Fairbanks, AK",3,6,2,2,2,2,3,2,2,4,3,3,31
+Metropolitan Statistical Area,124500,24500,"Great Falls, MT",7,5,0,1,2,4,0,4,0,5,1,2,31
+Metropolitan Statistical Area,110380,10380,"Aguadilla-Isabela-San Sebasti†n, PR",1,0,0,2,1,6,5,2,2,2,1,8,30
+Metropolitan Statistical Area,125260,25260,"Hanford-Corcoran, CA",4,1,2,2,3,0,4,4,1,3,3,2,29
+Metropolitan Statistical Area,127340,27340,"Jacksonville, NC",1,1,5,1,4,2,3,1,4,2,1,3,28
+Metropolitan Statistical Area,116220,16220,"Casper, WY",2,2,4,4,3,4,2,1,1,3,2,3,27
+Metropolitan Statistical Area,120940,20940,"El Centro, CA",3,4,4,4,2,2,1,2,1,1,4,0,27
+Metropolitan Statistical Area,141660,41660,"San Angelo, TX",3,3,2,3,3,0,4,3,1,2,2,1,27
+Metropolitan Statistical Area,130300,30300,"Lewiston, ID-WA",3,3,3,3,3,3,2,1,1,1,2,1,26
+Metropolitan Statistical Area,124140,24140,"Goldsboro, NC",3,1,7,0,0,3,4,0,0,1,1,5,25
+Metropolitan Statistical Area,130020,30020,"Lawton, OK",5,2,2,2,3,1,0,1,0,1,4,3,24
+Metropolitan Statistical Area,138220,38220,"Pine Bluff, AR",3,3,3,1,1,2,5,1,2,0,1,2,24
+Metropolitan Statistical Area,129700,29700,"Laredo, TX",2,1,3,0,1,1,1,2,4,0,1,2,18
+Metropolitan Statistical Area,125980,25980,"Hinesville-Fort Stewart, GA",0,1,1,0,0,1,0,0,0,1,3,2,9
+Metropolitan Statistical Area,138660,38660,"Ponce, PR",1,0,0,0,1,1,1,1,0,0,0,0,5
+Metropolitan Statistical Area,125020,25020,"Guayama, PR",0,0,0,0,1,0,2,0,0,0,0,1,4
+Metropolitan Statistical Area,141900,41900,"San Germ†n-Cabo Rojo, PR",0,0,0,2,0,0,1,0,0,1,0,0,4
+Metropolitan Statistical Area,149500,49500,"Yauco, PR",1,0,1,0,0,0,0,1,0,0,0,0,3
+Metropolitan Statistical Area,121940,21940,"Fajardo, PR",1,0,0,0,0,0,0,0,1,0,0,0,2
+Metropolitan Statistical Area,,,-- Subtotal --,80230,82755,82372,83245,79782,70838,85465,75753,74027,78799,103117,103888,1000271
