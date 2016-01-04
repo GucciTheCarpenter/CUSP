@@ -1,0 +1,21 @@
+Problem 0
+HW 2
+Radu Stancut (rs1933)
+
+I was hoping to store the database across several files in order:
+
+1. keep the data persistent once the commands were complete
+2. split repetitive data (ie Agency, Salary Frequency)
+
+This proved too ambitious presently.
+
+My solution is the dummed down version that simply writes the final
+job postings to ONE text file; this file is later brought whenever the 
+program is rerun, this at least retains the instruction to NOT import
+duplicate Job ID's.
+
+All of the work after the last set of job postings are imported is done
+in memory via multiple lists/dicts.
+
+Additionally, the job posting field names/indexes are created as a persistent
+dict within the PY program.

@@ -1,0 +1,24 @@
+	In the scatter plot problems the biggest challenge was keeping the 
+'keys' across multiple dicts clear and consistent. This was remeniscent 
+of the 'database' assignment. 
+
+	I read through each csv, 311 & zip/pop, only once and created dicts.
+	With these dicts I was able to identify zip populations (x) and complaints (y)
+by the zip codes themselves, and feed these inputs for scatter plotting.
+
+	With the second problem, 3_2, I followed much the same procedure but
+also had to take into account the five prioritized agencies and how to 
+display/differentiate them. I decided to go with separate colors for each agency,
+leaving as WHITE all circles where one of the five agencies did not appear in the 
+complaint/zip, if any.
+
+	My final issue, unresolved, was to get the labels/legend to show. Due
+to the way I organized the data I was unable to group the information in an
+effective way to get the legend to show. This will of course lead to less 
+readability for users not having access to the underlying code. 
+
+	Lastly, this data view is most helpful in the zip codes were complaints 
+number in the thousands, any lower and the scale makes it difficult to read
+and make differentiations. This is not bad in my opinion for a first pass; 
+later on this or similar data sets can be drilled into further or separated
+based on complaint counts per zip.

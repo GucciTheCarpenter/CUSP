@@ -1,0 +1,6 @@
+Clear plot:
+
+- x and y labels
+- x and y values
+- legend
+- title

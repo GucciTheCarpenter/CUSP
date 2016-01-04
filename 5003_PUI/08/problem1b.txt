@@ -1,0 +1,5 @@
+Conclusions:
+
+- the two stocks, AAPL & MSFT, appear to move in tandem, suggesting tech sector
+influences
+- AAPL has however outpaced MSFT in appreciation over the prescibed time.

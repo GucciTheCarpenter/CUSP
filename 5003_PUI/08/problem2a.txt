@@ -1,0 +1,5 @@
+Number of bins:
+
+I looked at common practices of selecting bins and decided to go with the 
+square root of N after seeing that this did show data trends w/o appearing to
+be too large or small a number of bins. 

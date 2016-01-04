@@ -1,0 +1,16 @@
+Assignment 11
+
+Problem 2
+
+Execution times of searches for one instance (distance  of .003):
+
+The naive computation took 196.926573992 seconds
+The kdtree computation took 139.081983805 seconds
+
+I ran the same search on an even smaller subset and the search times
+were reversed, the Naive method was quicker than KDTree. 
+
+In the long term, the larger the points to search,
+the better KDTree does against the Naive approach.
+
+Pickups are mostly Midtown to Downtown in Manhattan.

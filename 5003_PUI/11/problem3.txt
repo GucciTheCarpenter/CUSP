@@ -1,0 +1,18 @@
+Assignment 11
+
+Problem 3
+
+Execution times of searches for one instance:
+
+The naive computation took 0.00887703895569 seconds
+The kdtree computation took 0.812107801437 seconds
+
+In my implementation the Naive approach consistently beat
+the performance of of KDTree. I believe this has to do with running
+the KDTree on two separate areas (Rectangles) and PERHAPS with
+the Naive approach points are quickly discarded for not meeting just
+one of the Start Lat/Lng or End Lat/Lng.
+
+I tried running my PY file against varying point counts; Naive always won.
+This likely means either that Naive is better for this approach or my
+KDTree is overly complex.

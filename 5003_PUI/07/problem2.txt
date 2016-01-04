@@ -1,0 +1,10 @@
+I SAW WRITING REQUEST FOR THIS PROBLEM.
+
+	In any case, here the main challenges were working with string/dates,
+converting the dates, and grouping on a daily level. Lastly, there was of
+course the need to sort the data in chronological order prior to plotting
+the time series. 
+
+	Due to data being spread daily, the plotting allowed for a much more 
+detailed and jagged view of 311 calls; posing the question of patterns, 
+in weekly use, monthly, etc. 

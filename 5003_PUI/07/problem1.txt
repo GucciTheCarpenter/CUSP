@@ -1,0 +1,12 @@
+	I initially considered using pandas for this and all other problems
+in this assignment, as per my heading calls that are hashed out, but 
+changed course for a few reasons:
+	1) It was mentioned in the lab that pandas would be expensive to run.
+	2) Stayed away from 'black box' solutions.
+	3) Could build on previous work and keep it more Python-y.
+So I ended up using dicts and lists to work the data.
+	
+	Solely based on these bar charts I would say the results help to present
+a pre-processing, pre-analysis, perspective where the user is granted top
+level numbers to better acquaint themselves with volume of 311 calls and 
+the spread across agencies. 
